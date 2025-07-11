@@ -69,8 +69,8 @@
 
 ## 7. Repository Contents
 
-- `BLINKIT.pbix` : fully interactive Power BI report file  
-- `Blinkit_Analysis.png` : high-resolution exported PNG of the final dashboard  
+- `BlinkIt Analysis Power BI.pbix` : fully interactive Power BI report file  
+- `Blinkit Analysis Power BI.png` : high-resolution exported PNG of the final dashboard  
 - `Blinkit_Analysis.xlsx` : cleaned and prepared dataset used for the report  
 - `README.md` : this documentation file describing the project
 
